@@ -6,4 +6,37 @@ This repository is used to practice:
 - Git fundamentals
 - GitHub workflows
 - Professional version control habits
+starting from the cloneing of the repose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
